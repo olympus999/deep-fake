@@ -1,0 +1,7 @@
+*.pth
+*.pickle
+*.dat
+*.h5
+*.weights
+*.png
+*.pt
